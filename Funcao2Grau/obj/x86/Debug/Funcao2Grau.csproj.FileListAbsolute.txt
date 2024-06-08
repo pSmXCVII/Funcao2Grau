@@ -1,0 +1,14 @@
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\bin\Debug\Funcao2Grau.exe
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\bin\Debug\Funcao2Grau.pdb
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\bin\Debug\pt-BR\Funcao2Grau.resources.dll
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\WindowsFormsApplication1.frm_funcao_quadratica.resources
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\WindowsFormsApplication1.frm_funcao_quadratica.pt-BR.resources
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\Funcao2Grau.csproj.GenerateResource.Cache
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\pt-BR\Funcao2Grau.resources.dll
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\Funcao2Grau.exe
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\Funcao2Grau.pdb
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\bin\Debug\Funcao2Grau.exe.manifest
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\bin\Debug\Funcao2Grau.application
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\Funcao2Grau.exe.manifest
+C:\Users\Patife\documents\visual studio 2010\Projects\Funcao2Grau\Funcao2Grau\obj\x86\Debug\Funcao2Grau.application

@@ -1,0 +1,10 @@
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\pt-BR\WindowsFormsApplication1.resources.dll
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.frm_funcao_quadratica.resources
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.frm_funcao_quadratica.pt-BR.resources
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\pt-BR\WindowsFormsApplication1.resources.dll
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Patife\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
